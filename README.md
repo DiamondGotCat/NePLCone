@@ -17,9 +17,13 @@ NePLCone(Nercone Programming Language with C compiler 1)はC言語の勉強と�
 
 ## NePLConeの表記/発音
 **通常(en-US):** Nercone Programming Language with C compiler 1, Nercone Programming Language with C compiler One
+
 **略称(en-US):** NePLCone, NePLC1
+
 **ひらがな(ja-JP):** ねぷるこん
+
 **カタカナ(ja-JP):** ネプルコン
+
 **IPA(おおよその発音):** /nepɯɾɯkoɴ/
 
 ## 進捗
